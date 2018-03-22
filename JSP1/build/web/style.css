@@ -1,0 +1,79 @@
+
+fieldset
+{
+    color:black;
+    text-align: center;
+    width:300px;
+    margin:0 auto;
+}
+form 
+{
+    margin:0 auto;
+    /*width:700px;*/
+   
+}
+
+label 
+{
+    display:block; 
+    position: relative;
+    font-size: 18px;
+    text-align: center;
+        
+}
+   
+input,select
+{
+    margin:0 auto;
+    display:block;
+    margin-top: 5px;
+    text-align: center;       
+}
+   
+.btn
+{
+    margin-top: 12px;
+}
+    
+
+div#niebieski
+{
+    background: blue;
+    color:white; 
+    width:450px;  
+    margin:0 auto;   
+}
+
+div#czarny
+{
+    background: black;
+    color:white; 
+    width:450px;  
+    margin:0 auto;   
+}
+
+div#obrazek1
+{
+    background-image: url("tlo1.jpg");
+    color:black; 
+    width:450px;  
+    margin:0 auto;   
+}
+
+div#obrazek2
+{
+    background-image: url("tlo2.jpg");
+    color:white; 
+    width:450px;  
+    margin:0 auto;   
+}
+
+
+div>p
+{
+    text-align: center;
+}
+
+
+
+
